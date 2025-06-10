@@ -3,7 +3,8 @@ import Home from "./pages/Home";
 function App() {
   return (
     <div className="font-sans">
-      <Home />
+      
+      Hi there
     </div>
   );
 }

@@ -4,5 +4,5 @@
 
 /* Custom CSS */
 body {
-  @apply antialiased;
+  @apply bg-black;
 }
